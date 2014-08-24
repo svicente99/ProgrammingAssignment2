@@ -1,8 +1,8 @@
 ##  ----------------------------------------------------------
 ##  Coursera.org
 ## 
-##	R Programming - Programming Assignment 2: solution 
-##				  - Caching the inverse of a matrix
+##  R Programming - Programming Assignment 2: solution 
+##		  - Caching the inverse of a matrix
 ##
 ##  Student...:	Sergio Vicente (Niteroi, Brazil)
 ##  Twitter...: svicente99 (svicente99@yahoo.com)
